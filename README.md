@@ -98,10 +98,9 @@ This space is where I share my **projects**, **skills**, and **learning journey*
 
 ## 🧠 Learning Resources I Follow
 
-- **Blogs**: Testuj, Testerzy, Ministry of Testing  
-- **Podcasts**: Pierwsze Kroki w IT  
-- **Communities**: DareIT, Testowanie oprogramowania  
-- **Books**: "Testowanie oprogramowania", "Ścieżka testera – ISTQB"  
+- **Blogs**:  Ministry of Testing  
+- **Podcasts**: AB Testing  
+- **Communities**: Ministry of Testing Community   
 
 ---
 
