@@ -36,27 +36,58 @@ This space is where I share my **projects**, **skills**, and **learning journey*
 
 ## 🔧 Tools I Work With
 
-- **Test & Project Management**: Jira, Trello, Confluence, Zephyr  
-- **Bug Reporting & Tracking**: qTest, Chrome DevTools  
-- **API Testing**: Postman, REST APIs  
-- **Automation**: Selenium, Cypress, Robot Framework  
-- **Development Tools**: Git, GitHub, PyCharm, VS Code, Markdown  
-- **Database/Backend**: XAMPP, SSMS, SQL  
-- **CI/CD & Logs**: TeamCity, Kibana  
-- **Team Communication**: Slack, Google Drive  
+#### 📋 Test & Project Management
+- **Jira, TestMo** – Managing test cases, projects, and regression suites  
+- **Confluence** – Storing documentation and project knowledge  
 
----
+#### 🐞 Bug Reporting & Debugging
+- **Jira, qTest** – Bug tracking and reporting  
+- **Chrome DevTools, Fiddler** – Inspecting elements, network logs, and debugging  
 
-## 💻 Technical Skills
+#### 🧪 Test Automation
+- **Selenium, Cypress** – UI automation frameworks  
+- **Postman, REST APIs** – API testing and automation  
+- **TestMo** – Test case management and test suite execution  
 
-- ✅ Manual Testing & Test Case Design  
-- 🧪 Smoke Testing, UAT, Regression  
-- 📄 Creating Bug Reports & Documentation  
-- 🔍 API Testing with Postman  
-- 🐍 Basic Python for Automation  
-- 🖥️ Basic HTML & CSS for UI understanding  
-- 🧠 ISTQB Foundation Level Knowledge  
-- 📊 Familiar with Waterfall, Agile, V-Model  
+#### 💻 IDEs & Programming
+- **PyCharm, Visual Studio Code** – Writing and managing automation scripts  
+- **Languages** – JavaScript, Java  
+
+#### 🗃️ Version Control & Collaboration
+- **Git, GitHub** – Source control and collaboration within development teams  
+- **Slack, Microsoft Teams** – Team communication and collaboration  
+
+#### 📱 Cross-Browser & Mobile Testing
+- **BrowserStack, LambdaTest** – Cross-platform and responsive testing on real devices  
+
+#### 🧮 Database Testing
+- **SQL** – Backend and database validation  
+
+#### ⚙️ CI/CD & Logs
+- **Jenkins** – Continuous Integration and test automation execution  
+- **Fiddler** – Network traffic capture and analysis  
+
+
+
+
+### 💻 Technical Skills
+
+#### 🧪 Manual Testing
+- ✅ Proficient in Manual Testing and Test Case Design  
+- 🧠 Strong foundation in ISTQB principles and testing methodologies  
+- 🐞 Skilled in Bug Reporting, Defect Tracking, and Documentation  
+- 🔍 Experienced in API Testing using Postman and REST APIs  
+- 📊 Familiar with UAT, Smoke Testing, and Regression Testing  
+- 🧾 Understanding of SDLC and testing models: Waterfall, Agile, V-Model  
+- 🌐 Knowledge of HTML and CSS for UI validation and inspection  
+
+#### 🤖 Automation Testing
+- ⚙️ Hands-on experience with Selenium and Cypress for web automation  
+- 🧪 Writing reusable and maintainable test scripts using JavaScript, Java, and Python (basic)  
+- 🧰 Using PyCharm and VS Code as IDEs for test development  
+- 🔁 Working knowledge of version control using Git and GitHub  
+- 🧪 Executing API automation using Postman and REST requests  
+- 🧼 Familiar with test automation best practices, element locators, waits, and assertions  
 
 ---
 
@@ -72,14 +103,12 @@ This space is where I share my **projects**, **skills**, and **learning journey*
 
 ## 📓 Courses & Certifications
 
-- ✅ [Course Name] – Cypress Automation  
-- ✅ [Course Name] – Selenium with Python  
+- ✅ Cypress Automation (In Progress)
 - ✅ Postman - REST API Testing  
-- ✅ SQL Training – [Platform/Provider]  
 - ✅ Fundamentals of Manual Testing  
-- ✅ ISTQB Foundation Level (in progress/preparing)  
+- ✅ ISTQB Foundation Level (Preparing)  
 
-> *Certificates available on request or linked in project repos*
+> *Certificates available on request*
 
 ---
 
