@@ -21,6 +21,8 @@ While learning automation tools like **Cypress** and **Postman**, I’ve also be
 
 This space is where I share my **projects**, **skills**, and **learning journey**. Let’s grow together! 🚀
 
+- [My LinkedIn Profile](https://www.linkedin.com/in/anamika-gupta-45640b177/)
+
 ---
 
 ## 🏢 My Experience
