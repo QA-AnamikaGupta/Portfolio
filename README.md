@@ -107,8 +107,8 @@ This space is where I share my **projects**, **skills**, and **learning journey*
 
 ## 📫 Let’s Connect
 
-- [LinkedIn] https://www.linkedin.com/in/anamika-gupta-45640b177/
-- 📧 your.email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/anamika-gupta-45640b177/)
+- 📧 aniee493@gmail.com  
 - 💬 Open to: QA roles | Frelancer | Collaborations  
 
 ---
