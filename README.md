@@ -13,24 +13,106 @@ My QA portfolio
 
 ---
 
-### 🧠 About Me
+# 👋 About Me
+ 
+Since 2016, I’ve been on a journey to become a **QA Specialist** — and I’m loving every bit of it. What started as curiosity has grown into a deep passion for ensuring quality, user experience, and accessibility in software.
 
-- 🎓 Learning the art of testing one test case at a time
-- 💻 Building automation frameworks that *actually* work
-- 🔍 Passionate about finding bugs (the more elusive, the better)
-- 🎯 Preparing for QA certifications & leveling up my testing game
-- 🗣️ Fun fact: I talk to my Selenium scripts like they’re teammates 🙃
+While learning automation tools like **Cypress** and **Postman**, I’ve also been working on improving my soft skills and building projects that reflect real-world scenarios. I see QA not just as a role, but as a way to contribute meaningfully to making tech better for everyone.
+
+This space is where I share my **projects**, **skills**, and **learning journey**. Let’s grow together! 🚀
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🏢 My Experience
 
-```bash
-💡 Manual Testing       🧪 Cypress (UI + API)
-🐍 Python               🕵️ Selenium WebDriver
-🌐 Postman (API Testing) 🧰 Git & GitHub
-📑 Test Case Design     💻 VS Code & Chrome DevTools
-🔄 CI/CD (Exploring)     🧼 Clean Code, Clean Test!
+- 👩‍💻 Currently exploring test automation with **Selenium**, **Python**, and **Cypress**
+- 🧠 Hands-on with writing test cases, reporting bugs, and API testing in practice projects
+- 💬 Previous roles helped me build strong soft skills like **communication**, **attention to detail**, and **patience**
+- 📈 Constantly learning through self-study, online courses, and QA communities
+
 ---
 
-### 💡 Bonus Tips:
+## 🔧 Tools I Work With
+
+- **Test & Project Management**: Jira, Trello, Confluence, Zephyr  
+- **Bug Reporting & Tracking**: qTest, Chrome DevTools  
+- **API Testing**: Postman, REST APIs  
+- **Automation**: Selenium, Cypress, Robot Framework  
+- **Development Tools**: Git, GitHub, PyCharm, VS Code, Markdown  
+- **Database/Backend**: XAMPP, SSMS, SQL  
+- **CI/CD & Logs**: TeamCity, Kibana  
+- **Team Communication**: Slack, Google Drive  
+
+---
+
+## 💻 Technical Skills
+
+- ✅ Manual Testing & Test Case Design  
+- 🧪 Smoke Testing, UAT, Regression  
+- 📄 Creating Bug Reports & Documentation  
+- 🔍 API Testing with Postman  
+- 🐍 Basic Python for Automation  
+- 🖥️ Basic HTML & CSS for UI understanding  
+- 🧠 ISTQB Foundation Level Knowledge  
+- 📊 Familiar with Waterfall, Agile, V-Model  
+
+---
+
+## 📁 Soft Skills
+
+- 🎯 Precision & Analytical Thinking  
+- 💬 Clear Communication  
+- 🙌 Empathy & Patience  
+- 💡 Problem Solving & Curiosity  
+- 🧘 Assertiveness & Team Collaboration  
+
+---
+
+## 📓 Courses & Certifications
+
+- ✅ [Course Name] – Cypress Automation  
+- ✅ [Course Name] – Selenium with Python  
+- ✅ Postman - REST API Testing  
+- ✅ SQL Training – [Platform/Provider]  
+- ✅ Fundamentals of Manual Testing  
+- ✅ ISTQB Foundation Level (in progress/preparing)  
+
+> *Certificates available on request or linked in project repos*
+
+---
+
+## 🔬 Sample Work
+
+### 1. **E-Commerce Testing (Cypress)**
+- 🔹 Test Plan, Test Cases, Bug Reports
+- 🔹 Test Automation Scripts (UI + API)
+
+### 2. **API Testing with Postman**
+- 🔹 Sample Collection: [Collection Link]
+- 🔹 Bug Report + Documentation
+
+### 3. **Manual Testing Portfolio**
+- 🔹 [Project Name]: Test Scenarios + UAT Testing
+
+---
+
+## 🧠 Learning Resources I Follow
+
+- **Blogs**: Testuj, Testerzy, Ministry of Testing  
+- **Podcasts**: Pierwsze Kroki w IT  
+- **Communities**: DareIT, Testowanie oprogramowania  
+- **Books**: "Testowanie oprogramowania", "Ścieżka testera – ISTQB"  
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn] https://www.linkedin.com/in/anamika-gupta-45640b177/
+- 📧 your.email@example.com  
+- 💬 Open to: QA roles | Frelancer | Collaborations  
+
+---
+
+> “Quality means doing it right when no one is looking.” – Henry Ford
+
+Thank you for visiting my GitHub! 😊
