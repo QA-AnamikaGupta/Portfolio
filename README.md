@@ -27,7 +27,7 @@ While learning automation tools like **Cypress** and **Postman**, I’ve also be
 
 This space is where I share my **projects**, **skills**, and **learning journey**. Let’s grow together! 🚀
 
-- [My LinkedIn Profile](https://www.linkedin.com/in/anamika-gupta-45640b177/)
+[My LinkedIn Profile](https://www.linkedin.com/in/anamika-gupta-45640b177/)
 
 ---
 
@@ -121,15 +121,15 @@ This space is where I share my **projects**, **skills**, and **learning journey*
 ## 🔬 Sample Work
 
 ### 1. **E-Commerce Testing (Cypress)**
-- 🔹 Test Plan, Test Cases, Bug Reports
-- 🔹 Test Automation Scripts (UI + API)
+ - Test Plan, Test Cases, Bug Reports
+ - Test Automation Scripts (UI + API)
 
 ### 2. **API Testing with Postman**
-- 🔹 Sample Collection: [Collection Link]
-- 🔹 Bug Report + Documentation
+ - Sample Collection: [Collection Link]
+ - Bug Report + Documentation
 
 ### 3. **Manual Testing Portfolio**
-- 🔹 [Project Name]: Test Scenarios + UAT Testing
+ -  [Project Name]: Test Scenarios + UAT Testing
 
 ---
 
