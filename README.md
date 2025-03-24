@@ -8,8 +8,14 @@ My QA portfolio
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Breaking+code...+for+a+better+experience!;Learning+Test+Automation+with+passion;Making+software+bug-free+step+by+step" alt="Typing SVG" target="_blank" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Breaking+code...+for+a+better+experience!;Learning+Test+Automation+with+passion;Making+software+bug-free+step+by+step" 
+    alt="Typing animation of my learning journey"
+    style="pointer-events: none;"
+  />
 </p>
+
+
 
 ---
 
