@@ -1,154 +1,164 @@
-# Portfolio
-My QA portfolio
-
 <h1 align="center">Hi there, I'm Anamika Gupta 👋</h1>
 
 <p align="center">
-  🧪 Aspiring QA Specialist | 🐞 Bug Whisperer in Training | 🚀 Automation Explorer  
+  🧪 QA Engineer | 🌐 UI & API Automation (Cypress + JavaScript) | 📱 Learning Appium  
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Breaking+code...+for+a+better+experience!;Learning+Test+Automation+with+passion;Making+software+bug-free+step+by+step" 
-    alt="Typing animation of my learning journey"
-    style="pointer-events: none;"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Breaking+code...+for+a+better+experience!;Cypress+UI+%2B+API+Automation;Learning+Appium+for+Mobile+Automation;Passionate+about+Quality+Engineering" 
   />
 </p>
-
-
 
 ---
 
 # 👋 About Me
- 
-Since 2016, I’ve been on a journey to become a **QA Specialist** — and I’m loving every bit of it. What started as curiosity has grown into a deep passion for ensuring quality, user experience, and accessibility in software.
 
-While learning automation tools like **Cypress** and **Postman**, I’ve also been working on improving my soft skills and building projects that reflect real-world scenarios. I see QA not just as a role, but as a way to contribute meaningfully to making tech better for everyone.
+I’m Anamika, a passionate **QA Engineer** focusing on:
 
-This space is where I share my **projects**, **skills**, and **learning journey**. Let’s grow together! 🚀
+- **Cypress UI Automation (JavaScript)**
+- **Cypress API Automation**
+- **Mobile Automation using Appium**
+- **Testing strategies, documentation & bug reporting**
 
-[My LinkedIn Profile](https://www.linkedin.com/in/anamika-gupta-45640b177/)
+I love improving user experience, ensuring quality, and building automation that is clean, maintainable, and scalable.
 
----
-
-## 🏢 My Experience
-
-- 👩‍💻 Currently exploring test automation with **Selenium**, **Python**, and **Cypress**
-- 🧠 Hands-on with writing test cases, reporting bugs, and API testing in practice projects
-- 💬 Previous roles helped me build strong soft skills like **communication**, **attention to detail**, and **patience**
-- 📈 Constantly learning through self-study, online courses, and QA communities
+🔗 **LinkedIn:** [Anamika Gupta](https://www.linkedin.com/in/anamika-gupta-45640b177/)
 
 ---
 
-## 🔧 Tools I Work With
+## 🏢 What I’m Working On
 
-#### 📋 Test & Project Management
-- **Jira, TestMo** – Managing test cases, projects, and regression suites  
-- **Confluence** – Storing documentation and project knowledge  
+- 👩‍💻 Building strong expertise in **Cypress (UI + API)**  
+- 🤖 Exploring **Appium** for Android mobile automation  
+- 🧪 Implementing POM, reusable commands, fixtures, and API utilities  
+- 📈 Creating sample projects for real-world scenarios  
+- ⚙️ GitHub Actions CI for Cypress pipelines  
 
-#### 🐞 Bug Reporting & Debugging
-- **Jira, qTest** – Bug tracking and reporting  
-- **Chrome DevTools, Fiddler** – Inspecting elements, network logs, and debugging  
+---
 
-#### 🧪 Test Automation
-- **Selenium, Cypress** – UI automation frameworks  
-- **Postman, REST APIs** – API testing and automation  
-- **TestMo** – Test case management and test suite execution  
+## 🔧 Tools & Technologies
 
-#### 💻 IDEs & Programming
-- **PyCharm, Visual Studio Code** – Writing and managing automation scripts  
-- **Languages** – JavaScript, Java  
+### 🧪 Automation
+- **Cypress (JavaScript)** – UI tests, API tests, POM  
+- **Appium** – Mobile automation (Learning)  
+- **Postman** – API testing  
+- **Selenium (Basic)**  
 
-#### 🗃️ Version Control & Collaboration
-- **Git, GitHub** – Source control and collaboration within development teams  
-- **Slack, Microsoft Teams** – Team communication and collaboration  
+### 👩‍💻 Programming
+- **JavaScript** (primary)  
+- Basic **Java & Python**  
 
-#### 📱 Cross-Browser & Mobile Testing
-- **BrowserStack, LambdaTest** – Cross-platform and responsive testing on real devices  
+### 📋 Test Management
+- Jira  
+- TestMo  
+- Confluence  
 
-#### 🧮 Database Testing
-- **SQL** – Backend and database validation  
+### 🐞 Debugging Tools
+- Chrome DevTools  
+- Fiddler  
 
-#### ⚙️ CI/CD & Logs
-- **Jenkins** – Continuous Integration and test automation execution  
-- **Fiddler** – Network traffic capture and analysis  
+### 📱 Cross-Browser & Mobile Testing
+- BrowserStack  
+- LambdaTest  
 
+### 🗃️ Database
+- SQL  
 
+### ⚙️ CI/CD & Version Control
+- Git, GitHub  
+- GitHub Actions  
 
+---
 
-### 💻 Technical Skills
+## 💻 Technical Skills
 
-#### 🧪 Manual Testing
-- ✅ Proficient in Manual Testing and Test Case Design  
-- 🧠 Strong foundation in ISTQB principles and testing methodologies  
-- 🐞 Skilled in Bug Reporting, Defect Tracking, and Documentation  
-- 🔍 Experienced in API Testing using Postman and REST APIs  
-- 📊 Familiar with UAT, Smoke Testing, and Regression Testing  
-- 🧾 Understanding of SDLC and testing models: Waterfall, Agile, V-Model  
-- 🌐 Knowledge of HTML and CSS for UI validation and inspection  
+### 🧪 Manual Testing
+- Test case design  
+- Smoke, Regression & UAT  
+- API testing (Postman + Cypress)  
+- SDLC & STLC knowledge  
+- Agile fundamentals  
 
-#### 🤖 Automation Testing
-- ⚙️ Hands-on experience with Selenium and Cypress for web automation  
-- 🧪 Writing reusable and maintainable test scripts using JavaScript, Java, and Python (basic)  
-- 🧰 Using PyCharm and VS Code as IDEs for test development  
-- 🔁 Working knowledge of version control using Git and GitHub  
-- 🧪 Executing API automation using Postman and REST requests  
-- 🧼 Familiar with test automation best practices, element locators, waits, and assertions  
+### 🤖 Automation
+- Cypress UI & API testing  
+- Page Object Model architecture  
+- Custom commands, fixtures, intercepts  
+- GitHub Actions CI workflows  
+- Appium basics (Android automation)  
 
 ---
 
 ## 📁 Soft Skills
 
-- 🎯 Precision & Analytical Thinking  
-- 💬 Clear Communication  
-- 🙌 Empathy & Patience  
-- 💡 Problem Solving & Curiosity  
-- 🧘 Assertiveness & Team Collaboration  
+- Attention to detail  
+- Clear communication  
+- Analytical thinking  
+- Problem-solving  
+- Team collaboration  
 
 ---
 
-## 📓 Courses & Certifications
+# 📂 Featured Projects
 
-- ✅ Cypress Automation (In Progress)
-- ✅ Postman - REST API Testing  
-- ✅ Fundamentals of Manual Testing  
-- ✅ ISTQB Foundation Level (Preparing)  
+### 🚀 **1. Cypress UI + API Automation Framework (JavaScript)**  
+A complete automation framework using:
 
-> *Certificates available on request*
+- Cypress  
+- JavaScript  
+- Page Object Model  
+- API utilities  
+- GitHub Actions CI pipeline  
 
----
-
-## 🔬 Sample Work
-
-### 1. **E-Commerce Testing (Cypress)**
- - Test Plan, Test Cases, Bug Reports
- - Test Automation Scripts (UI + API)
-
-### 2. **API Testing with Postman**
- - Sample Collection: [Collection Link]
- - Bug Report + Documentation
-
-### 3. **Manual Testing Portfolio**
- -  [Project Name]: Test Scenarios + UAT Testing
+🔗 **GitHub Repository:** *[Project link](https://github.com/QA-AnamikaGupta/automation-L4-assessment)*  
+> Dummy project for **Cypress UI + API + GitHub Actions**.
 
 ---
 
-## 🧠 Learning Resources I Follow
+### 🔍 **2. API Testing with Postman**
+- Automated collection  
+- Assertions  
+- Documentation  
+- Environment variables  
 
-- **Blogs**:  Ministry of Testing  
-- **Podcasts**: AB Testing  
-- **Communities**: Ministry of Testing Community   
-
----
-
-## 📫 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/anamika-gupta-45640b177/)
-- 📧 aniee493@gmail.com  
-- 💬 Open to: QA roles | Frelancer | Collaborations  
+Coming Soon..
 
 ---
 
-> “Quality means doing it right when no one is looking.” – Henry Ford
+### 📝 **3. Manual Testing Portfolio**
+- Test cases  
+- Scenarios  
+- Regression suite  
+- Bug reports  
 
-Thank you for visiting my GitHub! 😊
+Coming Soon..
+
+---
+
+# 📓 Courses & Certifications
+
+- Cypress Automation (In Progress)  
+- Postman – REST API Testing  
+- Manual Testing Fundamentals  
+- ISTQB Foundation Level (Preparing)  
+
+---
+
+# 🧠 Learning Resources
+
+- Ministry of Testing (Blogs + Community)  
+- QA Blogs & YouTube  
+- API Testing Resources  
+
+---
+
+# 📫 Let’s Connect
+
+- 🔗 **LinkedIn:** [Anamika Gupta](https://www.linkedin.com/in/anamika-gupta-45640b177/)  
+- 📧 **Email:** aniee493@gmail.com  
+- 🤝 Open to: QA Roles | Freelance | Collaborations  
+
+---
+
+<p align="center"><i>“Quality means doing it right when no one is looking.” – Henry Ford</i></p>
+
