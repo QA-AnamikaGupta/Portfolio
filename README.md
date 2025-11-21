@@ -24,6 +24,8 @@ I’m Anamika, a passionate **QA Engineer** focusing on:
 I love improving user experience, ensuring quality, and building automation that is clean, maintainable, and scalable.
 
 🔗 **LinkedIn:** [Anamika Gupta](https://www.linkedin.com/in/anamika-gupta-45640b177/)
+🔗 **GitHub Repository:** *[Project link](https://github.com/QA-AnamikaGupta/automation-L4-assessment)*  
+> Dummy project for **Cypress UI + API + GitHub Actions**.
 
 ---
 
